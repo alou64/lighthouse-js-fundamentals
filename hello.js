@@ -1,4 +1,4 @@
 const hello = function (name) {
-  console.log("hello " + name);
+  return "hello " + name
 }
 hello("poo");
